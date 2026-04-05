@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Nitish Singhal 👋
 
-<!--
-**Nitishs19/Nitishs19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Digital Marketing & Data Analytics Enthusiast  
+📊 Passionate about building real-world dashboards & campaign insights  
+🎯 Focused on ROI, Performance Marketing & Growth  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+- 📈 Digital Marketing Campaign Analysis  
+- 🔍 SEO & Performance Optimization  
+- 💰 Google Ads & Facebook Ads Strategy  
+- 📊 Data Visualization & Dashboarding  
+
+---
+
+## 🧠 Skills
+- Google Ads  
+- Facebook Ads  
+- SEO  
+- Email Marketing (Omnisend,Mailchimp)  
+- Excel / Data Analysis  
+- Dashboard Creation
+- WordPress
+- PowerBi
+- Tableau
+- Python
+- R(Stats)
+- Excel
+- 
+  
+
+---
+
+## 📊 Featured Project
+### 🔥 Digital Marketing Campaign Dashboard  
+- Built a multi-channel marketing dashboard  
+- Analyzed ROI, ROAS, CTR & conversions  
+- Simulated real-world campaign performance  
+
+👉 Live Project:file:///C:/Users/ujgop/Downloads/digital_marketing_dashboard%20(3).html
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nitish-singhal-19042003ns  
+- Email_ID: nitishsinghal200319@gmail.com
+
+--
+
+💡 *Currently open to Digital Marketing / Data Analytics opportunities*
