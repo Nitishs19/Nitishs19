@@ -1,7 +1,7 @@
 # Hi, I'm Nitish Singhal 👋
 
 🚀 Digital Marketing & Data Analytics Enthusiast  
-📊 Passionate about building real-world dashboards & campaign insights  
+📊 Passionate about building real-world dashboards & campaign insights & KPI&
 🎯 Focused on ROI, Performance Marketing & Growth  
 
 ---
@@ -16,7 +16,7 @@
 
 ## 🧠 Skills
 - Google Ads  
-- Facebook Ads  
+- Facebook(Meta)Ads  
 - SEO  
 - Email Marketing (Omnisend,Mailchimp)  
 - Excel / Data Analysis  
@@ -27,7 +27,7 @@
 - Python
 - R(Stats)
 - Excel
-- 
+- MySQL
   
 
 ---
