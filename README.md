@@ -60,11 +60,6 @@ I am a Data Analytics professional with a BCA background, passionate about trans
 
 To build a successful career as a Data Analyst and Business Intelligence Professional by combining analytics, visualization, and AI-powered insights to solve real-world business problems.
 
-### 📫 Connect With Me
----
-⭐ Turning Data into Decisions https://www.linkedin.com/in/nitish-singhal-19042003ns  
-- Email_ID: nitishsinghal200319@gmail.com
-
 --
 
 💡 *Currently open to Data Analytics opportunities*
