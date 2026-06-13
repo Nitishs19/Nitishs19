@@ -1,51 +1,70 @@
 # Hi, I'm Nitish Singhal 👋
 
-🚀 Digital Marketing & Data Analytics Enthusiast  
-📊 Passionate about building real-world dashboards & campaign insights & KPI&
-🎯 Focused on ROI, Performance Marketing & Growth  
+## 🚀 Data Analyst | Power BI Developer | SQL Enthusiast
 
----
+I am a Data Analytics professional with a BCA background, passionate about transforming raw data into meaningful business insights. I enjoy working with data visualization, business intelligence, SQL databases, and analytics solutions that help organizations make data-driven decisions.
 
-## 💼 What I Do
-- 📈 Digital Marketing Campaign Analysis  
-- 🔍 SEO & Performance Optimization  
-- 💰 Google Ads & Facebook Ads Strategy  
-- 📊 Data Visualization & Dashboarding  
+### 📊 Skills
 
----
-
-## 🧠 Skills
-- Google Ads  
-- Facebook(Meta)Ads  
-- SEO  
-- Email Marketing (Omnisend,Mailchimp)  
-- Excel / Data Analysis  
-- Dashboard Creation
-- WordPress
-- PowerBi
-- Tableau
+- Power BI
+- SQL (MySQL)
 - Python
-- R(Stats)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Tableau
+- Microsoft Fabric
+- Google Looker Studio
 - Excel
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- AI-Assisted Analytics
+
+### 🛠️ Tools & Technologies
+
+- Power BI Desktop
 - MySQL
-  
+- Python
+- Jupyter Notebook
+- Tableau
+- Microsoft Fabric
+- Google Looker Studio
+- Git & GitHub
+- Excel
 
+### 📈 Featured Projects
+
+🔹 Sales Analytics Dashboard (Power BI)
+
+🔹 Customer Insights Dashboard
+
+🔹 Business Performance Analysis
+
+🔹 Data Cleaning & EDA with Python
+
+🔹 SQL Business Intelligence Reports
+
+### 🌱 Currently Learning
+
+- Advanced Power BI
+- DAX Optimization
+- Microsoft Fabric
+- Data Warehousing
+- Advanced SQL
+- Predictive Analytics
+
+### 🎯 Career Goal
+
+To build a successful career as a Data Analyst and Business Intelligence Professional by combining analytics, visualization, and AI-powered insights to solve real-world business problems.
+
+### 📫 Connect With Me
 ---
-
-## 📊 Featured Project
-### 🔥 Digital Marketing Campaign Dashboard  
-- Built a multi-channel marketing dashboard  
-- Analyzed ROI, ROAS, CTR & conversions  
-- Simulated real-world campaign performance  
-
-👉 Live Project:file:///C:/Users/ujgop/Downloads/digital_marketing_dashboard%20(3).html
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/nitish-singhal-19042003ns  
+⭐ Turning Data into Decisions https://www.linkedin.com/in/nitish-singhal-19042003ns  
 - Email_ID: nitishsinghal200319@gmail.com
 
 --
 
-💡 *Currently open to Digital Marketing / Data Analytics opportunities*
+💡 *Currently open to Data Analytics opportunities*
